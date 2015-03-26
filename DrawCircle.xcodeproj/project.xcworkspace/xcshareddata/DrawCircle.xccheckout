@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8B656A55-3460-41B2-8657-6B7DD42FCCCB</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2DAF533F8E7D072360F34B8FC45CFAEA087CAD62</key>
+		<string>https://github.com/nanoCramer/DrawCircle.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2DAF533F8E7D072360F34B8FC45CFAEA087CAD62</key>
+		<string>DrawCircle/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nanoCramer/DrawCircle.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2DAF533F8E7D072360F34B8FC45CFAEA087CAD62</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2DAF533F8E7D072360F34B8FC45CFAEA087CAD62</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DrawCircle</string>
+		</dict>
+	</array>
+</dict>
+</plist>
